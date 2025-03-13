@@ -108,11 +108,6 @@ Contributions are welcome! Feel free to fork the repository, make improvements, 
 
 ---
 
-## 📄 License
-This project is licensed under the **MIT License**.
-
----
-
 ## 🙏 Acknowledgments
 
 - **Streamlit**: For the amazing UI framework.
