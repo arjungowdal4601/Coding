@@ -1,4 +1,3 @@
-Here's a **README.md** file for your **Credit Risk Modelling** project, formatted beautifully in Markdown for GitHub. You can **copy-paste** it directly into your `README.md` file.
 
 ---
 
